@@ -28,8 +28,8 @@ A 'KingPongApp' twitter feed which updates when this handle is used in peoples t
 
 
 ### Extra features/fixes
-* Add image upload (carrier wave) functionality and store on AWS S3
+* Add image upload (carrier wave) functionality and store on AWS S3.
 * Ability to choose between different types of tournaments.
-* Knockout tournament diagram which update with each round
+* Knockout tournament diagram which update with each round.
 * Support for multiple arenas/locations.
 * Email notifications/updates of results.
